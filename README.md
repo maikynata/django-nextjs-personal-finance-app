@@ -25,3 +25,4 @@ A fullstack personal finance dashboard built with:
 
 ## 📁 Project Structure
 
+...
