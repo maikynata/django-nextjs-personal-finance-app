@@ -27,3 +27,9 @@ yarn-error.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
